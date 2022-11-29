@@ -1,14 +1,30 @@
-### Hi there 👋
+### ![4](https://user-images.githubusercontent.com/77184884/199326275-5df86892-03cc-4b5c-9960-e509a256a154.png)
+
+<h1 align="center">Hi 👋, I'm Stephen Cleary! Pleasure to meet you!</h1>
+<h3 align="center">A PASSIONATE DevOps | Cloud Engineer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=steve0c&label=Profile%20views&color=0e75b6&style=flat" alt="steve0c" /> </p>
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-Find out more about me & feel free to connect with me here:
+Find out more about me & connect with me here:
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
+- 👀 I’m interested in DevOps | Cloud Engineering
+- 🌱 I’m currently learning Linux, AWS, Python, Docker, and Terraform
+- 💞️ I’m looking to collaborate on anything that involves DevOps | Cloud 
+- 📫 How to reach me: www.linkedin.com/in/stephencleary-devops
+- 📝 I regularly write articles on [https://medium.com/@stepencleary](https://medium.com/@stepencleary)
+- 🛠️ Some of my hobbies include: 🌎Traveling ☕Drinking too much coffee 🎬Binge watching random Youtube videos 🧑‍🤝‍🧑People watching 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+
+
+<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Stephen%20Cleary) -->
+
+![Linkedin Badge](https://img.shields.io/badge/-Stephen%20Cleary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/stephencleary-devops/)
+[![Medium Badge](https://img.shields.io/badge/Stephen%20Cleary-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@stepencleary)]([https://medium.com/@stepencleary]/)
+[![Gmail Badge](https://img.shields.io/badge/-steve0cleary@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:steve0cleary@gmail.com)](mailto:steve0cleary@gmail.com)
+
+
 
 ## ⚡ Technologies
 
@@ -25,8 +41,9 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=steve0c&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=steve0c%2Fsteve0c&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2Fsteve0c)
+
